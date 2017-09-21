@@ -1,6 +1,6 @@
 {
   "name": "gumga-nav-ng",
-  "version": "1.0.0",
+  "version": "1.2.0",
   "description": "Gumga Nav",
   "main": "./src/nav.js",
   "directories": {
